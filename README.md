@@ -15,22 +15,32 @@ Este é um jogo inspirado no personagem Ralph do filme *Detona Ralph*. O projeto
 
 ## 📁 Estrutura do Projeto
 src/
+
 ├── 🎵 audios/
+
 ├── 🖼️ images/
+
 ├── 📜 scripts/
+
 ├── 🎨 styles/
+
 └── 🏠 index.html
 
 ## ▶️ Como Executar o Jogo
 🌍 Deploy
+
 Você pode acessar o jogo diretamente através do link abaixo:
 
 🎮 https://adriolivdev.github.io/detona-Ralph-game/
 
 ## 🚧 Próximas Melhorias
+
 🆕 Adicionar novos níveis e desafios.
+
 🏆 Implementar placares e pontuação.
+
 👥 Adicionar diferentes personagens jogáveis.
+
 🔊 Incluir sons e efeitos especiais.
 
 ## 🤝 Contribuições
